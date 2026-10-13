@@ -1,0 +1,9 @@
+{
+  "name": "orders-sync",
+  "version": "1.0.0",
+  "description": "Mini orders synchronizer service",
+  "main": "netlify/functions/orders.js",
+  "scripts": {
+    "start": "node netlify/functions/orders.js"
+  }
+}
